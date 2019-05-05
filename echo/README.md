@@ -1,0 +1,1 @@
+## Singularity action to run echo on the arguments passed.

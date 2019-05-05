@@ -1,1 +1,1 @@
-### Sample Singularity Action to download files through wget
+### Singularity action to download files through wget

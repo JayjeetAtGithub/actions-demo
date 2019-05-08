@@ -1,1 +1,8 @@
-## Singularity action to run echo on the arguments passed.
+#### Singularity action to echo the arguments passed.
+
+```
+action "echo" {
+    uses = "JayjeetAtGithub/actions-demo/echo@master
+    args = ["Hello World"]
+}
+```

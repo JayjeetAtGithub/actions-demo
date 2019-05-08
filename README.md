@@ -1,2 +1,2 @@
-# actions
-Custom singularity action
+## actions
+Repository of singularity actions.
